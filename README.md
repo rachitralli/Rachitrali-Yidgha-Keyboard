@@ -33,7 +33,7 @@ Links
 -----
 
  * Home:    https://keyman.com/
- * Help:    https://help.keyman.com/keyboard/rac_yidgha
+ * Help:    https://help.keyman.com/keyboard/rac_yidgha/1.0/rac_yidgha.php
  * Contact: <rachitrali@yahoo.com>
  * Contact: <khowaracademy@yahoo.com>
 
